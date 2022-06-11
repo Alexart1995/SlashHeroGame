@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d2a2418d5fd78cd42bd4d155cbb94525
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bgMusic: {fileID: 8300000, guid: d23ca3755c590bf4ea0ca88bb2849dd9, type: 3}
+  - mainMenuMusic: {fileID: 8300000, guid: f5b1014f2a97795448c091f079a97ec7, type: 3}
+  - playerAttackSound: {fileID: 8300000, guid: b8f786b27bc4f9c40a9ef90dd7e106c4, type: 3}
+  - gameOverSound: {fileID: 8300000, guid: 5b18e640feaf41d47a58d5a598b3e576, type: 3}
+  - playerJump: {fileID: 8300000, guid: c35f04c8ab21dce49bf7bb958b10cd1f, type: 3}
+  - playerDeathSound: {fileID: 8300000, guid: 735fb8f09ecee1949a68d950bc9a0129, type: 3}
+  - enemyAttackSound: {fileID: 8300000, guid: 84d8bb2ded03e944bbcfadfcd5e25ffc, type: 3}
+  - enemyDeathSound: {fileID: 8300000, guid: 3b5fb5a5b087255429eeab0bf9c21f01, type: 3}
+  - collectableSound: {fileID: 8300000, guid: 86e37fe15a6ca054c88261370ebe49c1, type: 3}
+  - destroyObstacleSound: {fileID: 8300000, guid: 9c40fcd2b3d4d514397f29babfba4ddf, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
